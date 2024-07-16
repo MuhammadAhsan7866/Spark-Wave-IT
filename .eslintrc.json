@@ -1,3 +1,7 @@
 {
-  "extends": "next/core-web-vitals"
+  "extends": ["next", "next/core-web-vitals"],
+  "rules": {
+    "rule-name-you-want-to-disable": "off",
+    "another-rule-name": "off"
+  }
 }
