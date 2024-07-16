@@ -7,6 +7,7 @@ import {
   Divider,
   Heading,
   useColorModeValue,
+  useColorMode,
 } from "@chakra-ui/react";
 import React from "react";
 import Header from "../../core/Header/Header";

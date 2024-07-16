@@ -73,7 +73,7 @@ const Ideas = () => {
                 WordPress custom theme development, plugin integration,
                 performance optimization, Go High Level marketing automation,
                 Squarespace elegant design, and comprehensive SEO services. We
-                provide cutting-edge solutions to elevate your brand's online
+                provide cutting-edge solutions to elevate your brand&apos;s online
                 presence and achieve your business goals.
               </Text>
               <Flex
