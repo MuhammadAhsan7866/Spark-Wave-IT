@@ -1,7 +1,7 @@
 {
-  "extends": ["next", "next/core-web-vitals"],
+  "extends": "next",
   "rules": {
-    "rule-name-you-want-to-disable": "off",
-    "another-rule-name": "off"
+    "react/no-unescaped-entities": "off",
+    "@next/next/no-page-custom-font": "off"
   }
 }
